@@ -2,24 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "391861030",
-  "versionName": "0.2.1",
-  "versionCode": 6,
-  "publishedAt": "2026-09-19T00:35:41Z",
+  "releaseId": "391927900",
+  "versionName": "0.3.0",
+  "versionCode": 7,
+  "publishedAt": "2026-09-19T05:35:42Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.2.1-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.2.1/filesteward-ai-0.2.1-universal.apk",
-    "sizeBytes": 48569645,
-    "sha256": "61b9287838a069428421ad671a8f39cc0c4412e3faadeb357aaa9a2368eb62f3"
+    "name": "filesteward-ai-0.3.0-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.3.0/filesteward-ai-0.3.0-universal.apk",
+    "sizeBytes": 48635181,
+    "sha256": "ba71fc0599ab9dc7df7f086460c2aecc691f4f9191235c2f1736dbc1d334955c"
   },
   "notes": {
     "summary": [
-      "When you leave the app mid-request, a notification now shows right away that the assistant is still working",
-      "Everything from 0.2.0, including Google Drive connection through Google's picker",
-      "For Android 13 and newer"
+      "Pick your AI model from a list instead of typing its name, with a thinking level for each job",
+      "Settings is now a short menu that opens one page per topic",
+      "You choose your AI provider during setup; none is picked for you"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.2.1"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.3.0"
   },
-  "checkedAt": "2026-09-19T00:35:42.564Z"
+  "checkedAt": "2026-09-19T05:35:43.209Z"
 }
