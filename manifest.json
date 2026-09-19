@@ -2,24 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "392050354",
-  "versionName": "0.5.0",
-  "versionCode": 10,
-  "publishedAt": "2026-09-19T11:40:25Z",
+  "releaseId": "392216082",
+  "versionName": "0.6.0",
+  "versionCode": 11,
+  "publishedAt": "2026-09-19T21:14:59Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.5.0-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.5.0/filesteward-ai-0.5.0-universal.apk",
-    "sizeBytes": 48667953,
-    "sha256": "a57efb0db7060c26f1ba3882be56e3432a70475827b6e502f8d499373f484e68"
+    "name": "filesteward-ai-0.6.0-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.6.0/filesteward-ai-0.6.0-universal.apk",
+    "sizeBytes": 48684337,
+    "sha256": "17af87ba97bfe1dfc1cd908ede1a7dd0b8aa457dca8ecb71ab4ae0b1f484ade9"
   },
   "notes": {
     "summary": [
-      "Connect Google Drive and chat with the files you pick from it",
-      "Attach any file to a message and ask questions about it",
-      "One simple model picker, with per-job models tucked into Advanced"
+      "Connect Google Drive once and the assistant can search your whole Drive",
+      "Long-press to pick one or many Drive files and ask the assistant about them",
+      "Attach several files to one chat message"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.5.0"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.6.0"
   },
-  "checkedAt": "2026-09-19T11:40:26.191Z"
+  "checkedAt": "2026-09-19T21:15:00.546Z"
 }
