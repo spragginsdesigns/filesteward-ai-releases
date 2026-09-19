@@ -2,24 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "391743443",
-  "versionName": "0.2.0",
-  "versionCode": 5,
-  "publishedAt": "2026-09-18T19:44:24Z",
+  "releaseId": "391861030",
+  "versionName": "0.2.1",
+  "versionCode": 6,
+  "publishedAt": "2026-09-19T00:35:41Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.2.0-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.2.0/filesteward-ai-0.2.0-universal.apk",
-    "sizeBytes": 48569649,
-    "sha256": "519cbabfc85845a3d76d985385d4df08c17e43bc31cf2c78187926d057e6d8b9"
+    "name": "filesteward-ai-0.2.1-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.2.1/filesteward-ai-0.2.1-universal.apk",
+    "sizeBytes": 48569645,
+    "sha256": "61b9287838a069428421ad671a8f39cc0c4412e3faadeb357aaa9a2368eb62f3"
   },
   "notes": {
     "summary": [
-      "Connect Google Drive and let the AI organize the files you choose",
-      "Picker-gated access: FileSteward can only see the Drive files you grant",
-      "Chat improvements: live tool activity, stop button, sessions, and a separate chat model setting"
+      "When you leave the app mid-request, a notification now shows right away that the assistant is still working",
+      "Everything from 0.2.0, including Google Drive connection through Google's picker",
+      "For Android 13 and newer"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.2.0"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.2.1"
   },
-  "checkedAt": "2026-09-18T19:44:25.185Z"
+  "checkedAt": "2026-09-19T00:35:42.564Z"
 }
