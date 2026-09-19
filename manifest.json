@@ -2,24 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "391927900",
-  "versionName": "0.3.0",
-  "versionCode": 7,
-  "publishedAt": "2026-09-19T05:35:42Z",
+  "releaseId": "391981145",
+  "versionName": "0.3.1",
+  "versionCode": 8,
+  "publishedAt": "2026-09-19T07:21:25Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.3.0-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.3.0/filesteward-ai-0.3.0-universal.apk",
+    "name": "filesteward-ai-0.3.1-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.3.1/filesteward-ai-0.3.1-universal.apk",
     "sizeBytes": 48635181,
-    "sha256": "ba71fc0599ab9dc7df7f086460c2aecc691f4f9191235c2f1736dbc1d334955c"
+    "sha256": "5f5176ce927d18798ac0741752d4337471edfc045529b1ca3e5da9d107b176b6"
   },
   "notes": {
     "summary": [
-      "Pick your AI model from a list instead of typing its name, with a thinking level for each job",
-      "Settings is now a short menu that opens one page per topic",
-      "You choose your AI provider during setup; none is picked for you"
+      "Big organize requests no longer fail with an output limit error",
+      "The assistant can now use its model's full reply length",
+      "Everything from 0.3.0, including the new model picker and Settings"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.3.0"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.3.1"
   },
-  "checkedAt": "2026-09-19T05:35:43.209Z"
+  "checkedAt": "2026-09-19T07:21:26.250Z"
 }
