@@ -2,24 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "391981145",
-  "versionName": "0.3.1",
-  "versionCode": 8,
-  "publishedAt": "2026-09-19T07:21:25Z",
+  "releaseId": "391998019",
+  "versionName": "0.4.0",
+  "versionCode": 9,
+  "publishedAt": "2026-09-19T08:28:37Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.3.1-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.3.1/filesteward-ai-0.3.1-universal.apk",
-    "sizeBytes": 48635181,
-    "sha256": "5f5176ce927d18798ac0741752d4337471edfc045529b1ca3e5da9d107b176b6"
+    "name": "filesteward-ai-0.4.0-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.4.0/filesteward-ai-0.4.0-universal.apk",
+    "sizeBytes": 48667953,
+    "sha256": "574dc519d4af81ef26c824b5a1755c1f39846b8a1cb616e912c1c27d233f0b81"
   },
   "notes": {
     "summary": [
-      "Big organize requests no longer fail with an output limit error",
-      "The assistant can now use its model's full reply length",
-      "Everything from 0.3.0, including the new model picker and Settings"
+      "The assistant now plans big jobs and splits them across helpers working in parallel",
+      "Watch the plan and each helper's progress live while it works",
+      "Duplicate folder proposals are merged into one"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.3.1"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.4.0"
   },
-  "checkedAt": "2026-09-19T07:21:26.250Z"
+  "checkedAt": "2026-09-19T08:28:38.157Z"
 }
