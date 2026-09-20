@@ -2,24 +2,23 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "392216082",
-  "versionName": "0.6.0",
-  "versionCode": 11,
-  "publishedAt": "2026-09-19T21:14:59Z",
+  "releaseId": "392599856",
+  "versionName": "0.6.1",
+  "versionCode": 12,
+  "publishedAt": "2026-09-20T22:47:43Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.6.0-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.6.0/filesteward-ai-0.6.0-universal.apk",
-    "sizeBytes": 48684337,
-    "sha256": "17af87ba97bfe1dfc1cd908ede1a7dd0b8aa457dca8ecb71ab4ae0b1f484ade9"
+    "name": "filesteward-ai-0.6.1-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.6.1/filesteward-ai-0.6.1-universal.apk",
+    "sizeBytes": 48684265,
+    "sha256": "f3452812057374f074bb3998174fdfb47489b73b9524225c5ca1a9857c09e49a"
   },
   "notes": {
     "summary": [
-      "Connect Google Drive once and the assistant can search your whole Drive",
-      "Long-press to pick one or many Drive files and ask the assistant about them",
-      "Attach several files to one chat message"
+      "Fixes Connect to Drive getting stuck on a Google page",
+      "Sign-in now returns you to FileSteward instead of leaving the browser open"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.6.0"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.6.1"
   },
-  "checkedAt": "2026-09-19T21:15:00.546Z"
+  "checkedAt": "2026-09-20T22:47:43.839Z"
 }
