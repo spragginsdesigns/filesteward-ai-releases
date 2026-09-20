@@ -2,23 +2,22 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "392599856",
-  "versionName": "0.6.1",
-  "versionCode": 12,
-  "publishedAt": "2026-09-20T22:47:43Z",
+  "releaseId": "392611352",
+  "versionName": "0.6.2",
+  "versionCode": 13,
+  "publishedAt": "2026-09-20T23:34:52Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.6.1-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.6.1/filesteward-ai-0.6.1-universal.apk",
+    "name": "filesteward-ai-0.6.2-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.6.2/filesteward-ai-0.6.2-universal.apk",
     "sizeBytes": 48684265,
-    "sha256": "f3452812057374f074bb3998174fdfb47489b73b9524225c5ca1a9857c09e49a"
+    "sha256": "05846cdcb33e07b698d6f4f7b54021c601d820e776712c3f59351ed09c21ad24"
   },
   "notes": {
     "summary": [
-      "Fixes Connect to Drive getting stuck on a Google page",
-      "Sign-in now returns you to FileSteward instead of leaving the browser open"
+      "Same Drive sign-in fix as 0.6.1, now on internal testing so it reaches you without the review wait"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.6.1"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.6.2"
   },
-  "checkedAt": "2026-09-20T22:47:43.839Z"
+  "checkedAt": "2026-09-20T23:34:53.298Z"
 }
