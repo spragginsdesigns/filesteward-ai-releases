@@ -2,23 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "393351149",
-  "versionName": "0.6.4",
-  "versionCode": 15,
-  "publishedAt": "2026-09-21T23:06:50Z",
+  "releaseId": "393354639",
+  "versionName": "0.7.0",
+  "versionCode": 16,
+  "publishedAt": "2026-09-21T23:17:07Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.6.4-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.6.4/filesteward-ai-0.6.4-universal.apk",
-    "sizeBytes": 48684265,
-    "sha256": "f2d5fd92b68bb2b9750ee8feecd7ecb58e045b4ddf78c930ec9c8f34b97f670a"
+    "name": "filesteward-ai-0.7.0-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.7.0/filesteward-ai-0.7.0-universal.apk",
+    "sizeBytes": 48700649,
+    "sha256": "34bc88a48c2f0904ed21c942828c8e699c4ca0a04b072fbdd69358dd21768928"
   },
   "notes": {
     "summary": [
-      "The assistant's Apply button now confirms clearly when changes are applied",
-      "A change the apply had to skip now says why on its card, instead of looking untouched"
+      "Optional fast decision layer: files are pre-sorted in well under a second each",
+      "Bulk analysis runs faster and uses less of your AI allowance",
+      "Screenshot cleanup scores keepsakes more carefully, including a separate disposable check"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.6.4"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.7.0"
   },
-  "checkedAt": "2026-09-21T23:06:51.468Z"
+  "checkedAt": "2026-09-21T23:17:07.902Z"
 }
