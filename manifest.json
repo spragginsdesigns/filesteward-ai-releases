@@ -2,22 +2,23 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "392614302",
-  "versionName": "0.6.3",
-  "versionCode": 14,
-  "publishedAt": "2026-09-20T23:47:01Z",
+  "releaseId": "393351149",
+  "versionName": "0.6.4",
+  "versionCode": 15,
+  "publishedAt": "2026-09-21T23:06:50Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.6.3-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.6.3/filesteward-ai-0.6.3-universal.apk",
+    "name": "filesteward-ai-0.6.4-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.6.4/filesteward-ai-0.6.4-universal.apk",
     "sizeBytes": 48684265,
-    "sha256": "12dc99cd244920b50248fb303a38c8356d9f375c54df48ef73e5807bbfcd542f"
+    "sha256": "f2d5fd92b68bb2b9750ee8feecd7ecb58e045b4ddf78c930ec9c8f34b97f670a"
   },
   "notes": {
     "summary": [
-      "Same Drive sign-in fix as 0.6.1, now on internal testing so it reaches you without the review wait"
+      "The assistant's Apply button now confirms clearly when changes are applied",
+      "A change the apply had to skip now says why on its card, instead of looking untouched"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.6.3"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.6.4"
   },
-  "checkedAt": "2026-09-20T23:47:01.852Z"
+  "checkedAt": "2026-09-21T23:06:51.468Z"
 }
