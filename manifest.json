@@ -2,24 +2,23 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "393354639",
-  "versionName": "0.7.0",
-  "versionCode": 16,
-  "publishedAt": "2026-09-21T23:17:07Z",
+  "releaseId": "393400193",
+  "versionName": "0.7.1",
+  "versionCode": 17,
+  "publishedAt": "2026-09-22T01:41:04Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.7.0-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.7.0/filesteward-ai-0.7.0-universal.apk",
+    "name": "filesteward-ai-0.7.1-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.7.1/filesteward-ai-0.7.1-universal.apk",
     "sizeBytes": 48700649,
-    "sha256": "34bc88a48c2f0904ed21c942828c8e699c4ca0a04b072fbdd69358dd21768928"
+    "sha256": "400fd6aa5436e25ac4ac0ff5988b8aa431cecfb22668a086321578829059eb88"
   },
   "notes": {
     "summary": [
-      "Optional fast decision layer: files are pre-sorted in well under a second each",
-      "Bulk analysis runs faster and uses less of your AI allowance",
-      "Screenshot cleanup scores keepsakes more carefully, including a separate disposable check"
+      "Fix: keep-worthiness scores from the fast decision layer were shifted about 11 points low",
+      "Borderline files now land on the right side of your screenshot cleanup threshold"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.7.0"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.7.1"
   },
-  "checkedAt": "2026-09-21T23:17:07.902Z"
+  "checkedAt": "2026-09-22T01:41:04.873Z"
 }
