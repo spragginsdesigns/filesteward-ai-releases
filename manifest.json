@@ -2,23 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "393400193",
-  "versionName": "0.7.1",
-  "versionCode": 17,
-  "publishedAt": "2026-09-22T01:41:04Z",
+  "releaseId": "393445821",
+  "versionName": "0.8.0",
+  "versionCode": 18,
+  "publishedAt": "2026-09-22T04:00:35Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.7.1-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.7.1/filesteward-ai-0.7.1-universal.apk",
-    "sizeBytes": 48700649,
-    "sha256": "400fd6aa5436e25ac4ac0ff5988b8aa431cecfb22668a086321578829059eb88"
+    "name": "filesteward-ai-0.8.0-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.8.0/filesteward-ai-0.8.0-universal.apk",
+    "sizeBytes": 48733417,
+    "sha256": "3a2921233c058453846e1f2478f4f03130ea3f9b47c2baec86421d310293602b"
   },
   "notes": {
     "summary": [
-      "Fix: keep-worthiness scores from the fast decision layer were shifted about 11 points low",
-      "Borderline files now land on the right side of your screenshot cleanup threshold"
+      "The fast decision layer now also ranks search, picks folders, and routes your chat requests",
+      "Proposed changes get a second opinion: anything doubtful is marked so you can double-check",
+      "Files that may contain passwords or IDs are flagged, and sharing one asks first"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.7.1"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.8.0"
   },
-  "checkedAt": "2026-09-22T01:41:04.873Z"
+  "checkedAt": "2026-09-22T04:00:35.599Z"
 }
