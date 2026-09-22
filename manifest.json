@@ -2,24 +2,23 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "393469788",
-  "versionName": "0.9.0",
-  "versionCode": 19,
-  "publishedAt": "2026-09-22T05:14:20Z",
+  "releaseId": "393502543",
+  "versionName": "0.9.1",
+  "versionCode": 20,
+  "publishedAt": "2026-09-22T06:40:43Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.9.0-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.9.0/filesteward-ai-0.9.0-universal.apk",
+    "name": "filesteward-ai-0.9.1-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.9.1/filesteward-ai-0.9.1-universal.apk",
     "sizeBytes": 48848105,
-    "sha256": "302e8f562559a6d787cb696d66cb5a975249fd176b4d83550c6fdb298ea9832b"
+    "sha256": "9dcf965c068a4767a1fc5943cd5a7b23622d1187a14c1a46d2d6fed3d1ef50ae"
   },
   "notes": {
     "summary": [
-      "Suggested file changes now open in a focused review screen instead of filling the chat",
-      "Tap any proposed rename to edit it yourself while keeping the file extension protected",
-      "Apply now shows real progress, accurate results, recovery actions, and per-change undo"
+      "Fixed review screen checkboxes staying disabled, so changes can be selected again",
+      "Untouched files are no longer flagged as changed since approval"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.9.0"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.9.1"
   },
-  "checkedAt": "2026-09-22T05:14:20.686Z"
+  "checkedAt": "2026-09-22T06:40:43.820Z"
 }
