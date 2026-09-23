@@ -2,24 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "394945104",
-  "versionName": "0.11.0",
-  "versionCode": 22,
-  "publishedAt": "2026-09-23T18:29:32Z",
+  "releaseId": "394998784",
+  "versionName": "0.12.0",
+  "versionCode": 23,
+  "publishedAt": "2026-09-23T19:40:47Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.11.0-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.11.0/filesteward-ai-0.11.0-universal.apk",
-    "sizeBytes": 49362340,
-    "sha256": "6f011b212b1b6e280d6eda8ae7404800bf4ecd6e1573ef19ff3e335183722b68"
+    "name": "filesteward-ai-0.12.0-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.12.0/filesteward-ai-0.12.0-universal.apk",
+    "sizeBytes": 49428574,
+    "sha256": "fdc7b4ff8d1eeacde06f31125522247d1fa899c3f2378fc611bc5da505548af8"
   },
   "notes": {
     "summary": [
-      "A new setup that learns your phone and asks where you keep things and how you like names",
-      "Optional new-file watching and an overnight organize, gentle on battery",
-      "No built-in folders: FileSteward learns your own layout instead"
+      "Check for and install updates right inside the app",
+      "Settings rewritten in plain language, with problems shown at the top",
+      "Easier spending limits, folder rules, and cleanup choices"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.11.0"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.12.0"
   },
-  "checkedAt": "2026-09-23T18:29:33.523Z"
+  "checkedAt": "2026-09-23T19:40:47.528Z"
 }
