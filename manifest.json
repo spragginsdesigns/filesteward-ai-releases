@@ -2,23 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "393502543",
-  "versionName": "0.9.1",
-  "versionCode": 20,
-  "publishedAt": "2026-09-22T06:40:43Z",
+  "releaseId": "394325414",
+  "versionName": "0.10.0",
+  "versionCode": 21,
+  "publishedAt": "2026-09-23T05:42:54Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.9.1-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.9.1/filesteward-ai-0.9.1-universal.apk",
-    "sizeBytes": 48848105,
-    "sha256": "9dcf965c068a4767a1fc5943cd5a7b23622d1187a14c1a46d2d6fed3d1ef50ae"
+    "name": "filesteward-ai-0.10.0-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.10.0/filesteward-ai-0.10.0-universal.apk",
+    "sizeBytes": 49192165,
+    "sha256": "46230b0d262a67a60adc428f603e61f8d2ba67b47df551afdbbf2fd76e780adf"
   },
   "notes": {
     "summary": [
-      "Fixed review screen checkboxes staying disabled, so changes can be selected again",
-      "Untouched files are no longer flagged as changed since approval"
+      "New one-tap Organize for your whole phone, and Google Drive when connected",
+      "The assistant now covers every folder, with bulk tools for moves, renames, duplicates, and junk",
+      "Apply works on the first tap, and untouched files are no longer flagged for review"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.9.1"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.10.0"
   },
-  "checkedAt": "2026-09-22T06:40:43.820Z"
+  "checkedAt": "2026-09-23T05:42:54.825Z"
 }
