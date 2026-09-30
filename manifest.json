@@ -2,24 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "394998784",
-  "versionName": "0.12.0",
-  "versionCode": 23,
-  "publishedAt": "2026-09-23T19:40:47Z",
+  "releaseId": "400206805",
+  "versionName": "0.12.1",
+  "versionCode": 24,
+  "publishedAt": "2026-09-30T15:52:42Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.12.0-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.12.0/filesteward-ai-0.12.0-universal.apk",
+    "name": "filesteward-ai-0.12.1-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.12.1/filesteward-ai-0.12.1-universal.apk",
     "sizeBytes": 49428574,
-    "sha256": "fdc7b4ff8d1eeacde06f31125522247d1fa899c3f2378fc611bc5da505548af8"
+    "sha256": "cfc028c27af4f79a07cebef9527bdb73f4193f6a9183f36765aa1b0c63eaec9c"
   },
   "notes": {
     "summary": [
-      "Check for and install updates right inside the app",
-      "Settings rewritten in plain language, with problems shown at the top",
-      "Easier spending limits, folder rules, and cleanup choices"
+      "Scheduled screenshot analysis retries temporary connection failures",
+      "Connection failures stop the batch and leave screenshots ready for another pass",
+      "Failure notifications wait until automatic retries finish"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.12.0"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.12.1"
   },
-  "checkedAt": "2026-09-23T19:40:47.528Z"
+  "checkedAt": "2026-09-30T15:52:43.460Z"
 }
