@@ -2,24 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "400206805",
-  "versionName": "0.12.1",
-  "versionCode": 24,
-  "publishedAt": "2026-09-30T15:52:42Z",
+  "releaseId": "413275301",
+  "versionName": "0.13.0",
+  "versionCode": 25,
+  "publishedAt": "2026-10-14T23:38:58Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.12.1-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.12.1/filesteward-ai-0.12.1-universal.apk",
-    "sizeBytes": 49428574,
-    "sha256": "cfc028c27af4f79a07cebef9527bdb73f4193f6a9183f36765aa1b0c63eaec9c"
+    "name": "filesteward-ai-0.13.0-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.13.0/filesteward-ai-0.13.0-universal.apk",
+    "sizeBytes": 49461342,
+    "sha256": "abb191a0c79842e2e238ff8f16b70586ccf3d21a16e46fa1ebda6753bd43e4c6"
   },
   "notes": {
     "summary": [
-      "Scheduled screenshot analysis retries temporary connection failures",
-      "Connection failures stop the batch and leave screenshots ready for another pass",
-      "Failure notifications wait until automatic retries finish"
+      "Every file on your phone is findable right away, with no indexing step to wait for",
+      "The assistant sees new, moved, and deleted files the moment you ask",
+      "Search reads text inside photos and documents on the spot when results are thin"
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.12.1"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.13.0"
   },
-  "checkedAt": "2026-09-30T15:52:43.460Z"
+  "checkedAt": "2026-10-14T23:38:59.372Z"
 }
