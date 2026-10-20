@@ -2,24 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "413275301",
-  "versionName": "0.13.0",
-  "versionCode": 25,
-  "publishedAt": "2026-10-14T23:38:58Z",
+  "releaseId": "418604360",
+  "versionName": "0.14.1",
+  "versionCode": 27,
+  "publishedAt": "2026-10-20T16:12:21Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.13.0-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.13.0/filesteward-ai-0.13.0-universal.apk",
-    "sizeBytes": 49461342,
-    "sha256": "abb191a0c79842e2e238ff8f16b70586ccf3d21a16e46fa1ebda6753bd43e4c6"
+    "name": "filesteward-ai-0.14.1-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.14.1/filesteward-ai-0.14.1-universal.apk",
+    "sizeBytes": 49526906,
+    "sha256": "31eca153a8a78825e6c73bc6343e3fb0c08e8a51b7082d6e9fd59b40c077b29c"
   },
   "notes": {
     "summary": [
-      "Every file on your phone is findable right away, with no indexing step to wait for",
-      "The assistant sees new, moved, and deleted files the moment you ask",
-      "Search reads text inside photos and documents on the spot when results are thin"
+      "Check battery, storage, app permissions, and device settings from Home or Assistant.",
+      "Review recent app activity with optional Usage Access and open Android settings to make changes.",
+      "Keep checkup details on your device or separately allow relevant details in assistant conversations."
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.13.0"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.14.1"
   },
-  "checkedAt": "2026-10-14T23:38:59.372Z"
+  "checkedAt": "2026-10-20T16:12:22.058Z"
 }
