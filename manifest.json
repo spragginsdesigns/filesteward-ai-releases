@@ -2,24 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "418604360",
-  "versionName": "0.14.1",
-  "versionCode": 27,
-  "publishedAt": "2026-10-20T16:12:21Z",
+  "releaseId": "422159066",
+  "versionName": "0.15.0",
+  "versionCode": 28,
+  "publishedAt": "2026-10-23T18:06:23Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.14.1-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.14.1/filesteward-ai-0.14.1-universal.apk",
-    "sizeBytes": 49526906,
-    "sha256": "31eca153a8a78825e6c73bc6343e3fb0c08e8a51b7082d6e9fd59b40c077b29c"
+    "name": "filesteward-ai-0.15.0-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.15.0/filesteward-ai-0.15.0-universal.apk",
+    "sizeBytes": 49608826,
+    "sha256": "a90874832d3edbbb51790029c597e27dc5c6c4bee740721b2dcf7141bef2fab4"
   },
   "notes": {
     "summary": [
-      "Check battery, storage, app permissions, and device settings from Home or Assistant.",
-      "Review recent app activity with optional Usage Access and open Android settings to make changes.",
-      "Keep checkup details on your device or separately allow relevant details in assistant conversations."
+      "Search finds a word anywhere in a file name, its folder, or the text inside it, and the assistant reports every match.",
+      "Select photos Gallery style: long-press, drag across, Select all, Trash, and Undo.",
+      "File names make sense: each kind gets a pattern that fits it, and camera photos keep their names."
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.14.1"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.15.0"
   },
-  "checkedAt": "2026-10-20T16:12:22.058Z"
+  "checkedAt": "2026-10-23T18:06:24.666Z"
 }
