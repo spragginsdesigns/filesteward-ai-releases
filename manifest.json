@@ -2,24 +2,24 @@
   "schemaVersion": 1,
   "status": "available",
   "channel": "early-access",
-  "releaseId": "454196582",
-  "versionName": "0.16.0",
-  "versionCode": 29,
-  "publishedAt": "2026-11-22T04:18:00Z",
+  "releaseId": "454663768",
+  "versionName": "0.17.0",
+  "versionCode": 30,
+  "publishedAt": "2026-11-22T18:40:04Z",
   "minAndroidApi": 33,
   "apk": {
-    "name": "filesteward-ai-0.16.0-universal.apk",
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.16.0/filesteward-ai-0.16.0-universal.apk",
-    "sizeBytes": 49608870,
-    "sha256": "18efe979a17d352745b18c1a5c62aec7fda607c687d8ac213f2ebdeebe6625e3"
+    "name": "filesteward-ai-0.17.0-universal.apk",
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/download/v0.17.0/filesteward-ai-0.17.0-universal.apk",
+    "sizeBytes": 49707602,
+    "sha256": "5486f9a56e74ccd35a1981d19c27cca324787707cffb48fd825f9387c99299ea"
   },
   "notes": {
     "summary": [
-      "Undo a whole run at once: \"Undo all\" on the screenshot cleanup notification and on the results page.",
-      "Automatic screenshot cleanup now keeps anything that looks sensitive, such as IDs and cards.",
-      "Downloads still in progress are no longer suggested for the trash."
+      "New Diagnostics page in Settings: see what ran in the background and what went wrong.",
+      "Share one log file when something misbehaves, so the cause can be found quickly.",
+      "Applying changes no longer fails when the app is already in the background."
     ],
-    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.16.0"
+    "url": "https://github.com/spragginsdesigns/filesteward-ai-releases/releases/tag/v0.17.0"
   },
-  "checkedAt": "2026-11-22T04:18:01.531Z"
+  "checkedAt": "2026-11-22T18:40:05.303Z"
 }
